@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.selenium.pom.tests.ProductPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.315 s - in org.selenium.pom.tests.ProductPageTest
